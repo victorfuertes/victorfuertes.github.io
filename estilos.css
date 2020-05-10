@@ -69,3 +69,10 @@ a:visited {
 	-moz-box-shadow: 0 0 1px 1px #eee;
 	-webkit-moz-shadow: 0 0 1px 1px #eee;
 }
+@media all and (orientation:landscape)
+    pre {
+        white-space: pre-wrap;
+        word-wrap: break-word;
+        text-align: justify;
+    }
+}
