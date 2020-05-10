@@ -51,7 +51,7 @@ a:visited {
 	-moz-border-radius    : 3px;
 	-webkit-border-radius : 3px;
 	border-radius         : 3px;
-  min-height: 80%;
+  min-height: 40%;
 	box-shadow: 0 0 1px 1px #333;
 	-moz-box-shadow: 0 0 1px 1px #333;
 	-webkit-moz-shadow: 0 0 1px 1px #333;
@@ -64,7 +64,7 @@ a:visited {
 	-moz-border-radius    : 3px;
 	-webkit-border-radius : 3px;
 	border-radius         : 3px;
-  min-height: 80%;
+  min-height: 40%;
 	box-shadow: 0 0 1px 1px #eee;
 	-moz-box-shadow: 0 0 1px 1px #eee;
 	-webkit-moz-shadow: 0 0 1px 1px #eee;
