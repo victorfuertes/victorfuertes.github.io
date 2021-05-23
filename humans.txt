@@ -16,7 +16,6 @@
 
    Owner & Dev:  Víctor Fuertes Fuertes
    Site:         victor@fuert.es
-   From:         León
    Location:     Spain, Earth
    Timezone:     Europe/Madrid
 
@@ -26,8 +25,8 @@
    Site URL:     http://fuert.es/
    Language:     Spanish / English
    Doctype:      HTML5
-   Last update:  2020/05/05
-   Standards:    UTF-8, HTML5, CSS3, ECMAScript
+   Last update:  2021/05/23
+   Standards:    UTF-8, HTML5, CSS3
    Philosophy:   Responsive, Minimal
    Graphics:     Photoshop, Inkscape
    Fonts:        monospace
@@ -39,7 +38,7 @@
 
 /* LICENSE
  *
- * Copyright (c) 2020, Victor Fuertes Fuertes · <victor@fuert.es>
+ * Copyright (c) 2021, Victor Fuertes Fuertes · <victor@fuert.es>
  *
  * Permission to use,  copy,  modify,  and  distribute this software for any
  * purpose with or without fee  is  hereby  granted, provided that the above
