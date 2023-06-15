@@ -13,7 +13,7 @@
 /* TEAM * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
    Dev:          Víctor Fuertes Fuertes
-   Owner:        Fuertes Family
+   Owner:        Víctor Fuertes Fuertes 
    Contact:      victor@fuert.es
    Location:     La Bañeza, León, Spain, Earth
    Timezone:     Europe/Madrid
