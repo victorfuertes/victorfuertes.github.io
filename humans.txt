@@ -23,9 +23,9 @@
    Site URL:     http://fuert.es/
    Language:     English
    Doctype:      HTML5
-   Last update:  2023/06/02
-   Standards:    UTF-8, HTML, CSS, PNG, HTTP, MIME
-   Philosophy:   Minimal, Static, Hand-Typed, UNIX Manual page
+   Last update:  2023/06/23
+   Standards:    UTF-8, HTML, CSS, PNG, HTTP, MIME, ASCII
+   Philosophy:   Minimal, Static, Inspired in UNIX Manual pages
    IDE:          VIM, git, GitHub's editing textarea, Inkscape, Photoshop
    Fonts:        monospace
    Hosting:      GitHub
