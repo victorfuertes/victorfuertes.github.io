@@ -37,7 +37,10 @@
 
 /* LICENSE
  *
- * No rights reserved, 2024. Victor Fuertes Fuertes · <victor@fuert.es>
+ * PUBLIC DOMAIN
+ *
+ * No rights reserved && No lefts reversed.
+ * © 2024. Victor Fuertes Fuertes · <victor@fuert.es>
  *
  * PUBLIC DOMAIN
  *
