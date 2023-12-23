@@ -23,7 +23,7 @@
    Site URL:     http://fuert.es/
    Language:     English
    Doctype:      HTML5
-   Last update:  2023/12/06
+   Last update:  2023/23/12
    Standards:    UTF-8, HTML, CSS, PNG, HTTP, MIME, ASCII
    Philosophy:   Minimal, Static, Inspired in UNIX Manual pages
    IDE:          VIM, git, GitHub's editing textarea, Inkscape, Photoshop
@@ -37,7 +37,7 @@
 
 /* LICENSE
  *
- * No rights reserved, 2023. Victor Fuertes Fuertes · <victor@fuert.es>
+ * No rights reserved, 2024. Victor Fuertes Fuertes · <victor@fuert.es>
  *
  * PUBLIC DOMAIN
  *
