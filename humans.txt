@@ -23,12 +23,12 @@
 /* SITE * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
    Site URL:     http://fuert.es/
-   Language:     English
    Doctype:      HTML5
+   Language:     English
    Last update:  2024/02/17
    Standards:    UTF-8, HTML, CSS, PNG, SVG, HTTP, ASCII
-   Philosophy:   Minimal, Static, UNIX manual pages
    IDE:          VIM, git, GitHub's textarea, Photoshop
+   Philosophy:   Minimal, Static, UNIX manual pages
    Fonts:        monospace
    Hosting:      GitHub
    DNS:          CDmon
@@ -42,6 +42,7 @@
  * PUBLIC DOMAIN
  *
  * No rights reserved && No lefts reversed.
+ *
  * © 2024. Victor Fuertes Fuertes · <victor@fuert.es>
  *
  * PUBLIC DOMAIN
