@@ -1,5 +1,6 @@
 /*                humans.txt (humanstxt.org) @ fuert.es
  *
+ *
  *        _________                       ___
  *       /  _______\   _  ______   _____ /  /__ ______  _______
  *      /  /____/  /\ / \/ ____ \/ \___// ____// ____ \/ _____/\
@@ -8,12 +9,13 @@
  *    \__\/     \______\/\_____\__\/   \_____\\______\______\/
  *
  *
+ *
  */
 
 /* TEAM * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
    Dev:          Víctor Fuertes Fuertes
-   Owner:        Víctor Fuertes Fuertes 
+   Owner:        Víctor Fuertes Fuertes
    Contact:      victor@fuert.es
    Location:     La Bañeza, León, Spain, Earth
    Timezone:     Europe/Madrid
@@ -23,17 +25,17 @@
    Site URL:     http://fuert.es/
    Language:     English
    Doctype:      HTML5
-   Last update:  2024/01/01
-   Standards:    UTF-8, HTML, CSS, PNG, SVG, HTTP, MIME, ASCII
-   Philosophy:   Minimal, Static, Inspired in UNIX Manual pages
-   IDE:          VIM, git, GitHub's editing textarea, Inkscape, Photoshop
+   Last update:  2024/02/17
+   Standards:    UTF-8, HTML, CSS, PNG, SVG, HTTP, ASCII
+   Philosophy:   Minimal, Static, UNIX manual pages
+   IDE:          VIM, git, GitHub's textarea, Photoshop
    Fonts:        monospace
    Hosting:      GitHub
    DNS:          CDmon
 
 /* THANKS * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-   Our Family.
+   Family.
 
 /* LICENSE
  *
