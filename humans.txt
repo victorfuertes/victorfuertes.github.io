@@ -16,7 +16,7 @@
 
    Dev:          Víctor Fuertes Fuertes
    Owner:        Víctor Fuertes Fuertes
-   Contact:      <victor@fuert.es> · +34 623 962 360
+   Contact:      <victor@fuert.es> · +34 623 96 23 60
    Location:     La Bañeza, León, Spain, Earth
    Timezone:     Europe/Madrid
 
